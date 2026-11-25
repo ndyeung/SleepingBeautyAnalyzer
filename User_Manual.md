@@ -1,5 +1,4 @@
-![](media/image1.png){width="1.1201388888888888in"
-height="1.1201388888888888in"}**Sleeping Beauty Analyzer**
+**Sleeping Beauty Analyzer**
 
 **User Manual**
 
@@ -68,8 +67,7 @@ This means a high-scoring paper can still have very low total citations.
 Always check Total Citations alongside any score (see the 3-check box
 above, and Section 5).
 
-![](media/image2.png){width="6.263888888888889in"
-height="3.297222222222222in"}
+
 
 **2. Installation & Launching**
 
@@ -108,8 +106,7 @@ height="3.297222222222222in"}
 The main window is divided into 3 button rows, a file list, a statistics
 panel, and a status bar.
 
-![](media/image3.png){width="6.295974409448819in"
-height="0.935184820647419in"}
+
 
   -----------------------------------------------------------------------
   **Row**    **Buttons**
@@ -159,8 +156,7 @@ All generated files are saved automatically to:\
     pre-range count, or skip the affected file(s). See Section 5 for why
     this matters.
 
-![](media/image4.png){width="6.263888888888889in"
-height="2.2083333333333335in"}
+
 
 **⚠️ Do not mix WoS and Scopus files in the same dataset.** The two
 databases use different source coverage, indexing rules, and so on.
@@ -182,10 +178,7 @@ Year), and save the result as master_dataset.xlsx. A summary popup and
 the stats panel report records imported, duplicates removed, and final
 record count. The app\'s statistics panel also updates live.
 
-![](media/image5.png){width="2.84544072615923in"
-height="3.148148512685914in"}
-![](media/image6.png){width="2.4444444444444446in"
-height="1.9861111111111112in"}
+
 
 **⚠️ This step must be completed before running any analysis method.**
 
@@ -206,12 +199,6 @@ new Merge**, even if you only changed part of your input files.
 Each method button works the same way: click it, watch the status bar,
 and a completion popup confirms the output file and paper count.
 
-![](media/image7.png){width="2.1203707349081364in"
-height="1.165326990376203in"}
-![](media/image8.png){width="1.2778237095363079in"
-height="1.651272965879265in"}
-![](media/image9.png){width="2.061404199475066in"
-height="1.1666666666666667in"}
 
   ---------------------------------------------------------
   **Button**                 **Output file**
@@ -287,8 +274,7 @@ saved to outputs/figures/.
   denoted as Year 1 (consistent with Citation History in the Excel
   outputs).
 
-![](media/image10.png){width="6.263888888888889in"
-height="3.188888888888889in"}
+
 
 **\**
 
